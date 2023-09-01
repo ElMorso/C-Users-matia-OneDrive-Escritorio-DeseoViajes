@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: fantasy;
+    height: 130vh;
+    background-image: url(/Fondo\ DESEOVIAJES.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+
+.form {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    border-radius: 10px;
+    background: whitesmoke;
+}
+
+#holaquetal {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.form1 {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    border-radius: 10px;
+    background: whitesmoke;
+}
+
+#edadypais {
+    position: absolute;
+    top: 105%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.form2 {
+    position: absolute;
+    top: 130%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    border-radius: 10px;
+    background: whitesmoke;
+}
+
+#continenteypresupuesto {
+    position: absolute;
+    top: 155%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.form3 {
+    position: absolute;
+    top: 180%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    border-radius: 10px;
+    background: whitesmoke;
+}
+
+#tiempoylugaryrecorrido {
+    position: absolute;
+    top: 205%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+#apiaplicada {
+    position: absolute;
+    top: 1%;
+}
+
